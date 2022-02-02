@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import UsuarioEntrada from './UsuarioEntrada';
 
 class UsuarioSaida extends Component{
 	render(props){

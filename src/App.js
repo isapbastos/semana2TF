@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import UsuarioEntrada from './UsuarioEntrada';
-import UsuarioSaida from './UsuarioSaida';
+import UsuarioEntrada from './Components/UsuarioEntrada';
+import UsuarioSaida from './Components/UsuarioSaida';
 
 function App() {
   return (
